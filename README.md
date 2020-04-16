@@ -42,5 +42,6 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 ## Autores ✒️
 
 * **Luis Miguel Guevara** - *Trabajo Inicial* - [MegRov](https://github.com/MegRov)
+* **Carlos Julio Guerrero**
 
 
