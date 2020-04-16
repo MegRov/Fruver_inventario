@@ -2,7 +2,7 @@
 
 _Inventario web con php para negocios_
 
-![vista](home.JPG)
+![vista](Home.JPG)
 
 
 ## Requisitos 📋
