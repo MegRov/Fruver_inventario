@@ -2,6 +2,8 @@
 
 _Inventario web con php para negocios_
 
+![vista](home.JPG)
+
 
 ## Requisitos 📋
 
@@ -38,3 +40,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
 ## Autores ✒️
+
+* **Luis Miguel Guevara** - *Trabajo Inicial* - [MegRov](https://github.com/MegRov)
+
+
